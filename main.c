@@ -1,8 +1,8 @@
 int main()
 {
   int i;
-  for (i = 0; i < 10; i++)
+  para ( i             =             0 ; i             <            33          ; i         ++ )
   {
-    printf ( "Holberton \ n" );
+    printf ( "Holberton \ n" Hellow );
   }
-  devuelve  0 ;hola 
+  devuelve    0 ;
